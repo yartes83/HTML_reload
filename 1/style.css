@@ -1,0 +1,14 @@
+* {
+    background-color: antiquewhite;
+
+}
+
+.container {
+    margin: 1%;
+    min-height: 90%;
+    min-width: 90%;
+    border: 1px solid black;
+    padding: 1%;
+    position: relative;
+    display: block;
+}
