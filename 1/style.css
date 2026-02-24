@@ -1,14 +1,28 @@
 * {
     background-color: antiquewhite;
-
 }
-
+h3 {
+    text-align: center;
+}
 .container {
     margin: 1%;
     min-height: 90%;
     min-width: 90%;
-    border: 1px solid black;
     padding: 1%;
     position: relative;
     display: block;
+}
+form {
+    border: 1px solid black;
+    padding: 1%;
+}
+#brawser {
+    border-radius: 5px;
+}
+button {
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #f19a79;
+    font-style: oblique;
 }
