@@ -16,8 +16,12 @@ form {
     border: 1px solid black;
     padding: 1%;
 }
-#brawser {
+#brawser, #num1, #num2 {
     border-radius: 5px;
+}
+#num1, #num2 {
+    width: 2%;
+    margin: 0.3%;
 }
 button {
     border-radius: 5px;
